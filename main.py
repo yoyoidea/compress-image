@@ -33,5 +33,5 @@ def compressImage(srcPath, dstPath):
 
 
 if __name__ == '__main__':
-    compressImage("/Users/chenyu/Documents/PythonProjects/compress-image/logo",
-                  "/Users/chenyu/Documents/PythonProjects/compress-image/logo_compress")
+    compressImage("/logo",
+                  "/logo_compress")
